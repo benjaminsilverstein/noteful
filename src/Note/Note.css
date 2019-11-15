@@ -1,0 +1,24 @@
+.note {
+  border: 1px solid black;
+  padding: 10px;
+  position: relative;
+}
+
+.modified {
+  display: inline-block;
+}
+
+.deleteNote {
+  float: right;
+  font-size: 14px;
+  padding: 10px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+h2:hover {
+  font-size: 26px;
+}
